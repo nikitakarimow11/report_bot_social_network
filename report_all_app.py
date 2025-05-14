@@ -13,10 +13,10 @@ from airflow.decorators import dag, task
 from airflow.operators.python import get_current_context
 
 connection = {
-    'host': 'https://clickhouse.lab.karpov.courses',
-    'password': 'dpo_python_2020',
-    'user': 'student',
-    'database': 'simulator_20250220'
+    'host': 'HOST',
+    'password': 'PASSWORD',
+    'user': 'USER_NAME',
+    'database': 'ENTER_DATABASE_HERE'
 }
 
 default_args = {
