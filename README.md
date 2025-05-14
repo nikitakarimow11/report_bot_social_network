@@ -51,11 +51,14 @@
 ## 📸 Пример работы бота
 
 ### Telegram-уведомление:
-![Telegram Notification](screenshots/IMG_2506.PNG)
+<img src="screenshots/IMG_2506.PNG" width="250"/>
 
-### Визуализация отчёта:
-![График 1](screenshots/IMG_2503.JPG)  
-![График 2](screenshots/IMG_2504.JPG)  
-![График 3](screenshots/IMG_2505.JPG)
+### Пример визуализации отчёта:
+<img src="screenshots/IMG_2503.JPG" width="300"/>
+<img src="screenshots/IMG_2504.JPG" width="300"/>
+<img src="screenshots/IMG_2505.JPG" width="300"/>
+
+
+
 
 
