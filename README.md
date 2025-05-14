@@ -48,13 +48,18 @@
 Скрипт запускается автоматически каждый день в 08:00 по UTC (`0 8 * * *`), собирает данные за вчерашний день и формирует графики за последнюю неделю.
 
 ---
-## 📸 Пример работы бота 
+<h2>📸 Пример работы бота</h2>
 
-### Telegram-уведомление:
-<img src="screenshots/IMG_2506.PNG" width="250"/>
+<h3>Telegram-уведомление и визуализация отчёта:</h3>
 
-### Визуализация отчёта:
-<img src="screenshots/IMG_2503.JPG" width="300"/>
-<img src="screenshots/IMG_2504.JPG" width="300"/>
-<img src="screenshots/IMG_2505.JPG" width="300"/>
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="screenshots/IMG_2506.PNG" alt="Telegram Notification" width="250"/>
+  <img src="screenshots/IMG_2503.JPG" alt="Dashboard 1" width="250"/>
+</div>
+
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img src="screenshots/IMG_2504.JPG" alt="Dashboard 2" width="250"/>
+  <img src="screenshots/IMG_2505.JPG" alt="Dashboard 3" width="250"/>
+</div>
+
 
