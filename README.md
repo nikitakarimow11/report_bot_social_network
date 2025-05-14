@@ -49,13 +49,15 @@
 
 ---
 
-## 📸 Примеры
+## 📸 Скриншоты
 
-Отчёт в Google Sheets:
+Пример визуализации отчёта:
 
-![Google Sheet](screenshots/google_sheet_report.png)
+![Отчёт 1](screenshots/IMG_2503.JPG)
+![Отчёт 2](screenshots/IMG_2504.JPG)
+![Отчёт 3](screenshots/IMG_2505.JPG)
 
-Уведомление в Telegram:
+Telegram-уведомление:
 
-![Telegram Notify](screenshots/telegram_notify.png)
+![Telegram](screenshots/IMG_2506.PNG)
 
