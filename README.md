@@ -53,12 +53,6 @@
 ### Telegram-уведомление:
 <img src="screenshots/IMG_2506.PNG" width="250"/>
 
-### Пример визуализации отчёта:
-<img src="screenshots/IMG_2503.JPG" width="300"/>
-<img src="screenshots/IMG_2504.JPG" width="300"/>
-<img src="screenshots/IMG_2505.JPG" width="300"/>
-
-
 
 
 
