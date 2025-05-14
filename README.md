@@ -53,11 +53,13 @@
 
 Пример визуализации отчёта:
 
-![Отчёт 1](screenshots/IMG_2503.JPG)
-![Отчёт 2](screenshots/IMG_2504.JPG)
-![Отчёт 3](screenshots/IMG_2505.JPG)
+## 📸 Скриншоты
 
-Telegram-уведомление:
+### Пример визуализации отчёта:
+<img src="screenshots/IMG_2503.JPG" width="300"/>
+<img src="screenshots/IMG_2504.JPG" width="300"/>
+<img src="screenshots/IMG_2505.JPG" width="300"/>
 
-![Telegram](screenshots/IMG_2506.PNG)
+### Telegram-уведомление:
+<img src="screenshots/IMG_2506.PNG" width="250"/>
 
