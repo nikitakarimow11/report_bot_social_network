@@ -53,6 +53,8 @@
 ### Telegram-уведомление:
 <img src="screenshots/IMG_2506.PNG" width="250"/>
 
+## Графики
+
 - [График 1 (IMG_2503.JPG)](screenshots/IMG_2503.JPG)
 - [График 2 (IMG_2504.JPG)](screenshots/IMG_2504.JPG)
 - [График 3 (IMG_2505.JPG)](screenshots/IMG_2505.JPG)
